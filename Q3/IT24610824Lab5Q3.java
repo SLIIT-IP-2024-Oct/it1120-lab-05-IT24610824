@@ -2,9 +2,9 @@ import java.util.Scanner;
 
 public class IT24610824Lab5Q3 {
     	public static void main(String[] args) {
-        	double roomchrg_PERday = 48000.0;
-        	int dis10_days = 10; 
-        	int dis20_days = 20; 
+        	public static final double roomchrg_PERday = 48000.0;
+        	public static final int dis10_days = 10; 
+        	public static final int dis20_days = 20; 
 
         	Scanner scanner = new Scanner(System.in);
 
